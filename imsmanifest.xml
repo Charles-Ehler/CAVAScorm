@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="aecea74f-5dc5-4e84-b5a1-f28ac0b560e8" version="1.1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                     http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                     http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+      <general>
+        <title>
+          <langstring xml:lang="en">Preventing Harassment and Discrimination: Supervisors</langstring>
+        </title>
+        <catalogentry>
+          <catalog>EverFi</catalog>
+          <entry>
+            <langstring></langstring>
+          </entry>
+        </catalogentry>
+        <language>en</language>
+        <description>
+          <langstring>Integration with LMS</langstring>
+        </description>
+        <keyword>
+          <langstring></langstring>
+        </keyword>
+        <keyword>
+          <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+        </keyword>
+        <aggregationlevel>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">3</langstring>
+          </value>
+        </aggregationlevel>
+      </general>
+      <lifecycle>
+        <contribute>
+          <role>
+            <source>
+              <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+              <langstring xml:lang="x-none">Author</langstring>
+            </value>
+          </role>
+          <centity>
+            <vcard>
+              BEGIN:vCard
+              ORG:EverFi
+              END:vCard
+            </vcard>
+          </centity>
+          <date>
+            <datetime>2020-07-30 18:03:35 +0000</datetime>
+          </date>
+        </contribute>
+        <version>
+          <langstring xml:lang="en">unknown</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+        <language>en</language>
+      </metametadata>
+      <technical>
+        <format>text/html</format>
+        <location type="URI">CourseLauncher.html</location>
+        <requirement>
+          <type>
+            <source>
+              <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+              <langstring xml:lang="x-none">Browser</langstring>
+            </value>
+          </type>
+          <name>
+            <source>
+              <langstring xml:lang="x-none">LOMv1.0</langstring>
+            </source>
+            <value>
+              <langstring xml:lang="x-none">Any</langstring>
+            </value>
+          </name>
+          <minimumversion>4.0</minimumversion>
+        </requirement>
+      </technical>
+      <educational>
+        <learningresourcetype>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Narrative Text</langstring>
+          </value>
+        </learningresourcetype>
+        <learningresourcetype>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Figure</langstring>
+          </value>
+        </learningresourcetype>
+        <learningresourcetype>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Exercise</langstring>
+          </value>
+        </learningresourcetype>
+        <language>en</language>
+      </educational>
+      <rights>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+        <description>
+          <langstring>Copyright 2020 by EverFi All rights reserved</langstring>
+        </description>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">no</langstring>
+          </value>
+        </cost>
+      </rights>
+      <classification>
+        <purpose>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Educational Objective</langstring>
+          </value>
+        </purpose>
+        <description>
+          <langstring xml:lang="en">
+            Integration with LMS
+          </langstring>
+        </description>
+        <keyword>
+          <langstring xml:lang="en"></langstring>
+        </keyword>
+      </classification>
+    </lom>
+  </metadata>
+  <organizations default="TOC1">
+    <organization identifier="TOC1"  structure="hierarchical" >
+      <title>Preventing Harassment and Discrimination: Supervisors</title>
+      <item identifier="S001" isvisible="true" identifierref="R_S001" >
+        <title>Preventing Harassment and Discrimination: Supervisors</title>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+            <general>
+              <title>
+                <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+              </title>
+              <language>en</language>
+              <catalogentry>
+                <catalog>EverFi</catalog>
+                <entry>
+                  <langstring></langstring>
+                </entry>
+              </catalogentry>
+              <language>en</language>
+              <description>
+                <langstring>Integration with LMS</langstring>
+              </description>
+              <keyword>
+                <langstring>aecea74f-5dc5-4e84-b5a1-f28ac0b560e8</langstring>
+              </keyword>
+              <keyword>
+                <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+              </keyword>
+              <aggregationlevel>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">3</langstring>
+                </value>
+              </aggregationlevel>
+            </general>
+            <lifecycle>
+              <contribute>
+                <role>
+                  <source>
+                    <langstring xml:lang="x-none">LOMv1.0</langstring>
+                  </source>
+                  <value>
+                    <langstring xml:lang="x-none">Author</langstring>
+                  </value>
+                </role>
+                <centity>
+                  <vcard>
+                    BEGIN:vCard
+                    ORG:EverFi
+                    END:vCard
+                  </vcard>
+                </centity>
+                <date>
+                  <datetime>2020-07-30 18:03:35 +0000</datetime>
+                </date>
+              </contribute>
+              <version>
+                <langstring xml:lang="en">unknown</langstring>
+              </version>
+              <status>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Final</langstring>
+                </value>
+              </status>
+            </lifecycle>
+            <metametadata>
+              <metadatascheme>ADL SCORM 1.2</metadatascheme>
+              <language>en</language>
+            </metametadata>
+            <technical>
+              <format>text/html</format>
+              <location type="URI">CourseLauncher.html</location>
+              <requirement>
+                <type>
+                  <source>
+                    <langstring xml:lang="x-none">LOMv1.0</langstring>
+                  </source>
+                  <value>
+                    <langstring xml:lang="x-none">Browser</langstring>
+                  </value>
+                </type>
+                <name>
+                  <source>
+                    <langstring xml:lang="x-none">LOMv1.0</langstring>
+                  </source>
+                  <value>
+                    <langstring xml:lang="x-none">Any</langstring>
+                  </value>
+                </name>
+                <minimumversion>4.0</minimumversion>
+              </requirement>
+            </technical>
+            <educational>
+              <learningresourcetype>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Narrative Text</langstring>
+                </value>
+              </learningresourcetype>
+              <learningresourcetype>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Figure</langstring>
+                </value>
+              </learningresourcetype>
+              <learningresourcetype>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Exercise</langstring>
+                </value>
+              </learningresourcetype>
+              <language>en</language>
+            </educational>
+            <rights>
+              <copyrightandotherrestrictions>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">yes</langstring>
+                </value>
+              </copyrightandotherrestrictions>
+              <description>
+                <langstring>Copyright 2020 by EverFi All rights reserved    </langstring>
+              </description>
+              <cost>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">no</langstring>
+                </value>
+              </cost>
+            </rights>
+            <classification>
+              <purpose>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Educational Objective</langstring>
+                </value>
+              </purpose>
+              <description>
+                <langstring xml:lang="en">
+                  Integration with LMS
+                </langstring>
+              </description>
+              <keyword>
+                <langstring xml:lang="en"></langstring>
+              </keyword>
+            </classification>
+          </lom>
+        </metadata>
+        <adlcp:masteryscore>0</adlcp:masteryscore>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+          <general>
+            <title>
+              <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+            </title>
+            <catalogentry>
+              <catalog>EverFi Course</catalog>
+              <entry>
+                <langstring></langstring>
+              </entry>
+            </catalogentry>
+            <language>en</language>
+            <description>
+              <langstring>Integration with LMS</langstring>
+            </description>
+            <keyword>
+              <langstring>aecea74f-5dc5-4e84-b5a1-f28ac0b560e8</langstring>
+            </keyword>
+            <keyword>
+              <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+            </keyword>
+            <aggregationlevel>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">3</langstring>
+              </value>
+            </aggregationlevel>
+          </general>
+          <lifecycle>
+            <contribute>
+              <role>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Author</langstring>
+                </value>
+              </role>
+              <centity>
+                <vcard>
+                  BEGIN:vCard
+                  ORG:EverFi
+                  END:vCard
+                </vcard>
+              </centity>
+              <date>
+                <datetime>2013-04-23</datetime>
+              </date>
+            </contribute>
+            <version>
+              <langstring xml:lang="en">unknown</langstring>
+            </version>
+            <status>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Final</langstring>
+              </value>
+            </status>
+          </lifecycle>
+          <metametadata>
+            <metadatascheme>ADL SCORM 1.2</metadatascheme>
+            <language>en</language>
+          </metametadata>
+          <technical>
+            <format>text/html</format>
+            <location type="URI">CourseLauncher.html</location>
+            <requirement>
+              <type>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Browser</langstring>
+                </value>
+              </type>
+              <name>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Any</langstring>
+                </value>
+              </name>
+              <minimumversion>4.0</minimumversion>
+            </requirement>
+          </technical>
+          <educational>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Narrative Text</langstring>
+              </value>
+            </learningresourcetype>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Figure</langstring>
+              </value>
+            </learningresourcetype>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Exercise</langstring>
+              </value>
+            </learningresourcetype>
+            <language>en</language>
+          </educational>
+          <rights>
+            <cost>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">no</langstring>
+              </value>
+            </cost>
+            <copyrightandotherrestrictions>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">yes</langstring>
+              </value>
+            </copyrightandotherrestrictions>
+            <description>
+              <langstring>Copyright 2020 by EverFi All rights reserved</langstring>
+            </description>
+          </rights>
+          <classification>
+            <purpose>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Educational Objective</langstring>
+              </value>
+            </purpose>
+            <description>
+              <langstring xml:lang="en">
+                Integration with LMS
+              </langstring>
+            </description>
+            <keyword>
+              <langstring xml:lang="en"></langstring>
+            </keyword>
+          </classification>
+        </lom>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <resource adlcp:scormtype="sco" type="webcontent" identifier="R_S001" href="Course/courselauncher.html">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+          <general>
+            <title>
+              <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+            </title>
+            <catalogentry>
+              <catalog>EverFi Course</catalog>
+              <entry>
+                <langstring></langstring>
+              </entry>
+            </catalogentry>
+            <language>en</language>
+            <description>
+              <langstring>Integration with LMS</langstring>
+            </description>
+            <keyword>
+              <langstring></langstring>
+            </keyword>
+            <keyword>
+              <langstring>Preventing Harassment and Discrimination: Supervisors</langstring>
+            </keyword>
+            <aggregationlevel>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">3</langstring>
+              </value>
+            </aggregationlevel>
+          </general>
+          <lifecycle>
+            <contribute>
+              <role>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Author</langstring>
+                </value>
+              </role>
+              <centity>
+                <vcard>
+                  BEGIN:vCard
+                  ORG:EverFi
+                  END:vCard
+                </vcard>
+              </centity>
+              <date>
+                <datetime>2013-03-23</datetime>
+              </date>
+            </contribute>
+            <version>
+              <langstring xml:lang="en">unknown</langstring>
+            </version>
+            <status>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Final</langstring>
+              </value>
+            </status>
+          </lifecycle>
+          <metametadata>
+            <metadatascheme>ADL SCORM 1.2</metadatascheme>
+            <language>en</language>
+          </metametadata>
+          <technical>
+            <format>text/html</format>
+                          <location type="URI">Course/courselauncher.html</location>
+                        <requirement>
+              <type>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Browser</langstring>
+                </value>
+              </type>
+              <name>
+                <source>
+                  <langstring xml:lang="x-none">LOMv1.0</langstring>
+                </source>
+                <value>
+                  <langstring xml:lang="x-none">Any</langstring>
+                </value>
+              </name>
+              <minimumversion>4.0</minimumversion>
+            </requirement>
+          </technical>
+          <educational>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Narrative Text</langstring>
+              </value>
+            </learningresourcetype>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Figure</langstring>
+              </value>
+            </learningresourcetype>
+            <learningresourcetype>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Exercise</langstring>
+              </value>
+            </learningresourcetype>
+            <language>en</language>
+          </educational>
+          <rights>
+            <cost>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">no</langstring>
+              </value>
+            </cost>
+            <copyrightandotherrestrictions>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">yes</langstring>
+              </value>
+            </copyrightandotherrestrictions>
+            <description>
+              <langstring>Copyright 2020 by EverFi All rights reserved</langstring>
+            </description>
+          </rights>
+          <classification>
+            <purpose>
+              <source>
+                <langstring xml:lang="x-none">LOMv1.0</langstring>
+              </source>
+              <value>
+                <langstring xml:lang="x-none">Educational Objective</langstring>
+              </value>
+            </purpose>
+            <description>
+              <langstring xml:lang="en">
+                Integration with LMS
+              </langstring>
+            </description>
+            <keyword>
+              <langstring xml:lang="en"></langstring>
+            </keyword>
+          </classification>
+        </lom>
+      </metadata>
+    </resource>
+  </resources>
+</manifest>
